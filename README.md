@@ -81,6 +81,8 @@ This Pokémon combat dataset is public and shared on Kaggle: https://www.kaggle.
 
 ![knn2.png](image/knn2.png)
 
+![knn3.png](image/knn3.png)
+
 
 
 
